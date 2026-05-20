@@ -1,4 +1,4 @@
-#produits par yasser mahzouli et said ait guaouzguit
+#produits par yasser mahzouli et said ait guaouzguit le doc json et deja plein par des fake infos 
 import json
 
 
